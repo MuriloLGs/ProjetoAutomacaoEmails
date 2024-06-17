@@ -1,0 +1,10 @@
+Passo a Passo:
+
+1 - Importação das Bibliotecas Pandas, pathlib e win32
+2 - Importação das bases de dados
+3 - Criar um arquivo para cada loja da base de dados e definir o dia do indicador
+4 - Fazer um backup nas pastas
+5 - Fazer o cálculo dos indicadores
+6 - Enviar o OnePage para os e-mails
+7 - Criação de ranking para enviar para diretoria
+8 - Enviar o E-mail do ranking para a diretoria
